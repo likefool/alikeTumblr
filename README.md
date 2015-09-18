@@ -1,4 +1,4 @@
-tumblrsnap
+alikeTumblrsnap
 ==========
 
 A fun photos app built on Tumblr. Used for our CodePath bootcamp.
